@@ -1,6 +1,8 @@
 # Learn With Card
-Server is online now.
+The server is now online.
 
-Apk version 1.0.1 : 
+APK Version 1.0.0:
 
-If you want to test premium feature, contact me: b.trk1@hotmail.com
+If you want to test premium features, contact me at b.trk1@hotmail.com.
+
+Coming soon to Google Play...
